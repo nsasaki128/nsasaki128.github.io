@@ -17,7 +17,7 @@ nsasaki128 is a software engineer at Japanese comapny. He experienced working in
 - [Facetons](http://www.jst.go.jp/erato/igarashi/en/projects/Facetons/index.html) - A geometric modeling primitive designed for building architectural models, using a six degrees of freedom (DoF) input device in a virtual environment (VE). 
 - Computer-generated Trompe l’œil - A computational method to generate a trompe l’œil on a paper, a 2D image depicting a virtual 3D model in such a way that the model appears to be a real 3D entity when a person views the printed image from specific viewpoint
 
-## Awrads
+## Awards
 
 - Oct. 2013 ACM [VRST '13 Best Paper Award](http://conference.ntu.edu.sg/vrst2013/Pages/AboutVRST2013.aspx)
 - Oct. 2015 [TechCrunch Award](http://500startups.jp/halloween_hackathon/) at [500 HALLOWEEN HACKATHON](http://halloween.tech-salon.com)
